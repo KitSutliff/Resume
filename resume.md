@@ -19,14 +19,14 @@ ___
 <!--OL-->
 * Python
 * Azure
-*  AWS
+* AWS
 * Terraform
 
 **Secondary:** 
 
 <!--OL-->
-* Mercurial
 * Linux/Bash
+* Mercurial
 * Flask
 
 **Models:** 
@@ -39,9 +39,9 @@ ___
 
 ## **WORK**
 
-### *Engineer 1 - Internship											      	         	2022*
+### *Engineer 1 - Internship*
 
-### **Qumulo** | Seattle, Wa					
+### **Qumulo** | Seattle, Wa | 2022					
 
 <!--OL-->
 * Built a Command Line Interface that allows Qumulo to bill customers through Azure and returns easily readable responses formatted with JSON.API *(These tools remain in use today.)*
@@ -54,9 +54,9 @@ ___
 
 #
 
-### *Ada Capstone - Project											                         	2022*
+### *Ada Capstone - Project*
 
-### **Ada Developers Academy** | Seattle, Wa
+### **Ada Developers Academy** | Seattle, Wa | 2022
 
 <!--OL-->
 * Built full stack application which animated an infographic visualizer to display overlap between sets
@@ -65,9 +65,9 @@ ___
 
 #
 
-### *Team Lead 												   	     2018-2019*
+### *Team Lead*
 
-### **Up Fundraising** | Seattle, Wa	
+### **Up Fundraising** | Seattle, Wa |  												   	     2018-2019	
 
 <!--OL-->
 * Top fundraiser in U.S. and Canada for Quarter Two
@@ -84,9 +84,9 @@ ___
 
 ## **VOLUNTEER**
 
-### *Boardmember			  					 				   	     2013-2016*
+### *Boardmember*
 
-### **Anchorage Community Works** | Anchorage, Ak	
+### **Anchorage Community Works** | Anchorage, Ak | 2013-2016	
 
 <!--OL-->
 * Helped develope an inclusive art creation space and all-ages performance venue
@@ -99,9 +99,9 @@ ___
 
 ## **EDUCATION**
 
-### *Full Stack Certification												      	2022*
+### *Full Stack Certification*
 
-### **Ada Developers Academy** | Seattle, Wa
+### **Ada Developers Academy** | Seattle, Wa | 												      	2022
 
 <!--OL-->
 * Highly selective, full-time, software-development scholarship for marginalized communities
@@ -112,20 +112,20 @@ ___
 
 #
 
-### *Bachelor of Arts:  Sociology 											      	2012*
+### *Bachelor of Arts:  Sociology*
 
-### **Wesleyan University** | Middletown, Ct
+### **Wesleyan University** | Middletown, Ct | 2012
 
 ___
 
 ## **COMMUNITY**
 
-### *Member			  					 				   	           	2022*
+### *Member*
 
-**Lesbians Who Tech** | Seattle, Wa
+**Lesbians Who Tech** | Seattle, Wa | 2022
 
 #
 
-### *Exchange Student											               	    2005-2006*
+### *Exchange Student*											               	   
 
-**Rotary International Youth Exchange** | Wuppertal, Germany
+**Rotary International Youth Exchange** | Wuppertal, Germany | 2005-2006
