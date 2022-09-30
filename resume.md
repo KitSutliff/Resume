@@ -33,10 +33,10 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 ## **WORK**
 
-##### *Engineer 1 - Internship*
+#### *Engineer 1 - Internship*
 
 ### **Qumulo** 
-##### *Seattle, Wa | 2022*					
+#### *Seattle, Wa | 2022*					
 
 <!--OL-->
 * Built a Command Line Interface that allows Qumulo to bill customers through Azure and returns easily readable responses formatted with JSON.API *(These tools remain in use today.)*
@@ -49,10 +49,10 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 #
 
-##### *Ada Capstone - Project*
+#### *Ada Capstone - Project*
 
 ### **Ada Developers Academy**
-##### *Seattle, Wa | 2022*
+#### *Seattle, Wa | 2022*
 
 <!--OL-->
 * Built full stack application which animated an infographic visualizer to display overlap between sets
@@ -61,10 +61,10 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 #
 
-##### *Team Lead*
+#### *Team Lead*
 
 ### **Up Fundraising**
-##### *Seattle, Wa |  												   	     2018-2019*	
+#### *Seattle, Wa |  												   	     2018-2019*	
 
 <!--OL-->
 * Top fundraiser in U.S. and Canada for Quarter Two
@@ -79,11 +79,11 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 ## **VOLUNTEER**
 
-##### *Boardmember*
+#### *Boardmember*
 
 ### **Anchorage Community Works**
 
-##### *Anchorage, Ak | 2013-2016*	
+#### *Anchorage, Ak | 2013-2016*	
 
 <!--OL-->
 * Helped develop an inclusive art creation space and all-ages performance venue
@@ -92,13 +92,13 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 * Led staff in establishing standard operating procedures and organizational structure to stabilize operations
 
-### **EDUCATION**
+## **EDUCATION**
 
 #### *Full Stack Certification*
 
 ### **Ada Developers Academy**
 
-##### *Seattle, Wa | 												      	2022*
+#### *Seattle, Wa | 												      	2022*
 
 <!--OL-->
 * Highly selective, full-time, software-development scholarship for marginalized communities
@@ -107,24 +107,26 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 * Full-stack test-driven software development using Agile methodology
 
-##### *Bachelor of Arts:  Sociology*
+#
+
+#### *Bachelor of Arts:  Sociology*
 
 ### **Wesleyan University**
 
-##### *Middletown, Ct | 2012*
+#### *Middletown, Ct | 2012*
 
 ## **COMMUNITY**
 
-##### *Member*
+#### *Member*
 
 ### **Lesbians Who Tech**
 
-##### *Seattle, Wa | 2022*
+#### *Seattle, Wa | 2022*
 
 #
 
-##### *Exchange Student*											               	   
+#### *Exchange Student*											               	   
 
 ### **Rotary International Youth Exchange**
 
-##### *Wuppertal, Germany | 2005-2006*
+#### *Wuppertal, Germany | 2005-2006*
