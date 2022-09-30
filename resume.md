@@ -1,16 +1,12 @@
 # **Kit Sutliff**
 
-## **Full Stack Software Developer**
+### **Full Stack Software Developer**
 
 kitsutliff@gmail.com | 206-355-9878 | [LinkedIn](linkedin.com/in/kit-sutliff)
-
-___
 
 ## **OVERVIEW**
 
 Recent Ada Developers Academy Graduate with backend experience developing features for deployment and operation of a distributed cloud file system in Azure and AWS. Seeking an entry-level software engineering position to utilize technical expertise and  ability to navigate ambiguous projects.
-
-___
 
 ## **LANGUAGES &  SKILLS**
 
@@ -34,8 +30,6 @@ ___
 <!--OL-->
 * Object Oriented Programming
 * Agile Development
-
-___
 
 ## **WORK**
 
@@ -83,8 +77,6 @@ ___
 
 * Excelled at a *(let's be honest)* pretty tough job 
 
-___
-
 ## **VOLUNTEER**
 
 #### *Boardmember*
@@ -99,8 +91,6 @@ ___
 * Joined the board  and coordinated budget and planning to keep operational
 
 * Led staff in establishing standard operating procedures and organizational structure to stabilize operations
-
-___
 
 ## **EDUCATION**
 
@@ -124,8 +114,6 @@ ___
 ### **Wesleyan University**
 
 #### *Middletown, Ct | 2012*
-
-___
 
 ## **COMMUNITY**
 
