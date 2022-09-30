@@ -14,7 +14,7 @@ ___
 
 ## **LANGUAGES &  SKILLS**
 
-### **Primary:** 
+### **Primary** 
 
 <!--OL-->
 * Python
@@ -22,14 +22,14 @@ ___
 * AWS
 * Terraform
 
-### **Secondary:** 
+### **Secondary** 
 
 <!--OL-->
 * Linux/Bash
 * Mercurial
 * Flask
 
-### **Models:** 
+### **Models** 
 
 <!--OL-->
 * Object Oriented Programming
