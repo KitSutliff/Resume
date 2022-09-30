@@ -39,7 +39,7 @@ ___
 
 ## **WORK**
 
-### *Engineer 1 - Internship*
+#### *Engineer 1 - Internship*
 
 ### **Qumulo** 
 Seattle, Wa | 2022					
@@ -55,7 +55,7 @@ Seattle, Wa | 2022
 
 #
 
-### *Ada Capstone - Project*
+#### *Ada Capstone - Project*
 
 ### **Ada Developers Academy**
 Seattle, Wa | 2022
@@ -67,7 +67,7 @@ Seattle, Wa | 2022
 
 #
 
-### *Team Lead*
+#### *Team Lead*
 
 ### **Up Fundraising**
 Seattle, Wa |  												   	     2018-2019	
@@ -87,13 +87,13 @@ ___
 
 ## **VOLUNTEER**
 
-### *Boardmember*
+#### *Boardmember*
 
 ### **Anchorage Community Works**
 Anchorage, Ak | 2013-2016	
 
 <!--OL-->
-* Helped develope an inclusive art creation space and all-ages performance venue
+* Helped develop an inclusive art creation space and all-ages performance venue
 
 * Joined the board  and coordinated budget and planning to keep operational
 
@@ -103,7 +103,7 @@ ___
 
 ## **EDUCATION**
 
-### *Full Stack Certification*
+#### *Full Stack Certification*
 
 ### **Ada Developers Academy**
 Seattle, Wa | 												      	2022
@@ -117,7 +117,7 @@ Seattle, Wa | 												      	2022
 
 #
 
-### *Bachelor of Arts:  Sociology*
+#### *Bachelor of Arts:  Sociology*
 
 ### **Wesleyan University**
  Middletown, Ct | 2012
@@ -126,14 +126,14 @@ ___
 
 ## **COMMUNITY**
 
-### *Member*
+#### *Member*
 
 ### **Lesbians Who Tech**
 Seattle, Wa | 2022
 
 #
 
-### *Exchange Student*											               	   
+#### *Exchange Student*											               	   
 
 ### **Rotary International Youth Exchange**
 Wuppertal, Germany | 2005-2006
