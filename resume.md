@@ -5,14 +5,12 @@
 kitsutliff@gmail.com | 206-355-9878 | [LinkedIn](linkedin.com/in/kit-sutliff)
 
 ___
-___
+
 ## **OVERVIEW**
 
 Recent Ada Developers Academy Graduate with backend experience developing features for deployment and operation of a distributed cloud file system in Azure and AWS. Seeking an entry-level software engineering position to utilize technical expertise and  ability to navigate ambiguous projects.
 
 ___
-
-#
 
 ## **LANGUAGES &  SKILLS**
 
@@ -38,7 +36,6 @@ ___
 * Agile Development
 
 ___
-# 
 
 ## **WORK**
 
@@ -87,8 +84,6 @@ ___
 
 ## **VOLUNTEER**
 
-#
-
 ### *Boardmember			  					 				   	     2013-2016*
 
 ### **Anchorage Community Works** | Anchorage, Ak	
@@ -103,8 +98,6 @@ ___
 ___
 
 ## **EDUCATION**
-
-#
 
 ### *Full Stack Certification												      	2022*
 
@@ -126,8 +119,6 @@ ___
 ___
 
 ## **COMMUNITY**
-
-#
 
 ### *Member			  					 				   	           	2022*
 
