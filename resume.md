@@ -4,9 +4,13 @@
 
 kitsutliff@gmail.com | 206-355-9878 | [LinkedIn](linkedin.com/in/kit-sutliff)
 
+<br/>
+
 ## **OVERVIEW**
 
 Recent Ada Developers Academy Graduate with backend experience developing features for deployment and operation of a distributed cloud file system in Azure and AWS. Seeking an entry-level software engineering position to utilize technical expertise and  ability to navigate ambiguous projects.
+
+<br/>
 
 ## **LANGUAGES &  SKILLS**
 
@@ -30,6 +34,8 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 <!--OL-->
 * Object Oriented Programming
 * Agile Development
+
+<br/>
 
 ## **WORK**
 
@@ -77,6 +83,8 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 * Excelled at a *(let's be honest)* pretty tough job 
 
+<br/>
+
 ## **VOLUNTEER**
 
 #### *Boardmember*
@@ -91,6 +99,8 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 * Joined the board  and coordinated budget and planning to keep operational
 
 * Led staff in establishing standard operating procedures and organizational structure to stabilize operations
+
+<br/>
 
 ## **EDUCATION**
 
@@ -114,6 +124,7 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 ### **Wesleyan University**
 
 #### *Middletown, Ct | 2012*
+<br/>
 
 ## **COMMUNITY**
 
@@ -122,6 +133,8 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 ### **Lesbians Who Tech**
 
 #### *Seattle, Wa | 2022*
+
+#
 
 #### *Exchange Student*											               	   
 
