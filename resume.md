@@ -123,8 +123,6 @@ Recent Ada Developers Academy Graduate with backend experience developing featur
 
 #### *Seattle, Wa | 2022*
 
-#
-
 #### *Exchange Student*											               	   
 
 ### **Rotary International Youth Exchange**
